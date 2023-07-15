@@ -1,0 +1,12 @@
+.big-banner{
+    /*background-image:url('https://www.bing.com/th?id=OHR.AnnularEclipse_EN-IN5010598761_tmb.jpg&amp;rf=');*/
+    background-image:url('img/LightBackground.jpg');
+    background-size:100%;
+}
+body{
+    font-family:"Segoe UI",Segoe,Tahoma,Arial,Verdana,sans-serif;
+    background-color:rgba(34, 34, 34, 0.932);
+    overflow:hidden;
+    width:100%;
+    height:100%
+}
